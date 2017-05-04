@@ -1,3 +1,3 @@
 # mopass
 
-QT UI that open in windows and says hello world
+Working progress GoLang Password Manager on all Distros with the option of GUI and CLI
